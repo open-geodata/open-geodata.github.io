@@ -23,8 +23,10 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 locale: pt-BR
+logo: "/assets/images/logo.png"
+#url: "https://michelmetran.com.br"
 
 # Build settings
 markdown: kramdown
@@ -59,22 +61,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Open Geodata"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Michel Metran"
+  avatar : "/assets/images/avatar.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://michelmetran.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/michelmetran"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/michelmetran"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/michelmetran"
 
 footer:
   links:
