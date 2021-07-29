@@ -1,14 +1,8 @@
 ---
 title: "DataGeo"
 date: 2020-06-12T15:34:30-04:00
-categories:
-- blog
-tags:
-- python
-- jupyter
-- package
-- datageo
-- gis
+categories: [blog]
+tags: [python, jupyter, package, datageo, gis]
 
 #layout: post
 #subtitle: Dados Espaciais
