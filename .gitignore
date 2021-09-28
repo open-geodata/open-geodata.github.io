@@ -1,3 +1,9 @@
+.bk/
+.idea/
+data/*/
+data/tab_analises.csv
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
