@@ -21,4 +21,4 @@ Com objetivo de promover a instalação de novas estações de monitoramento aut
 
 Abaixo é apresentado um mapa que possibilita visualizar as informações até o momento levantadas:
 
-<iframe src="https://open-geodata.github.io/assets/maps/map_infoaguas.html" width="100%" height="480"  frameborder="0" allowfullscreen></iframe>
+<iframe src="https://open-geodata.github.io/assets/maps/map_infoaguas_cluster.html" width="100%" height="480"  frameborder="0" allowfullscreen></iframe>
