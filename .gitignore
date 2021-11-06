@@ -1,7 +1,8 @@
-.bk/
-.idea/
-data/*/
-data/tab_analises.csv
+data/*
+
+
+adds/
+
 .vscode/
 .idea/
 

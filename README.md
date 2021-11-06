@@ -4,4 +4,12 @@ O Sistema de Informação [InfoÁGUAS](https://sistemainfoaguas.cetesb.sp.gov.br
 
 ---
 
-O presente repositório tem como objetivo obter os dados de maneira facilitada, por meio da técnica de *webscrapping*, bem como fazer análises das informações mantidas nesse repositório.
+O presente repositório tem como objetivo obter os dados de maneira facilitada, por meio da técnica de *web scraping*, bem como fazer análises das informações mantidas nesse repositório.
+
+---
+
+#### Scripts
+
+1. *get_data.ipynb*: pega os dados dos pontos de monitoramento. Leva muito tempo para rodar. Uns dois dias.
+2. *adjust_data.ipynb*: mais ou menos uma hora para rodar.
+3. *create_map.ipynb*: 
