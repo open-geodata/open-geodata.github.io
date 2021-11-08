@@ -15,10 +15,31 @@ classes: wide
 author: Michel Metran
 ---
 
-Com objetivo de promover a instalação de novas estações de monitoramento automático da qualidade de água bruta (água dos rios) das bacias hidrográficas dos rios Piracicaba, Capivari e Jundiaí, que compõe o que é conhecido como "Bacias PCJ", buscou-se identificar a localização das:
+O Sistema de Informação [InfoÁGUAS](https://sistemainfoaguas.cetesb.sp.gov.br/) é uma iniciativa da CETESB, que visa disponibilizar ao público interessado informações sobre a qualidade das águas do Estado de São Paulo. Por meio do sistema, é possível ter acesso aos resultados dos parâmetros analisados sistematicamente pela CETESB em seu Programa de Monitoramento de Águas Superficiais, nos mais de 600 pontos monitorados desde a década de 70.
 
 <!--more-->
 
-Abaixo é apresentado um mapa que possibilita visualizar as informações até o momento levantadas:
+Os pontos de monitoramento são apresentados no mapa abaixo:
 
-<iframe src="https://open-geodata.github.io/assets/maps/map_infoaguas_cluster.html" width="100%" height="480"  frameborder="0" allowfullscreen></iframe>
+<iframe src="https://open-geodata.github.io/assets/sp_cetesb_infoaguas/map_infoaguas_cluster.html" width="100%" height="480"  frameborder="0" allowfullscreen></iframe>
+
+<br>
+
+É possível também acessar os pontos por meio do arquivo em formato kml.
+
+{% raw %}
+<button onclick="window.open('/books/book.pdf')">Download</button>
+{% endraw %}
+
+
+
+ddd
+
+```
+
+```
+
+```
+<a id="raw-url" href="https://raw.githubusercontent.com/open-geodata/sp_cetesb_infoaguas/master/filename">Download FILE</a>
+```
+
