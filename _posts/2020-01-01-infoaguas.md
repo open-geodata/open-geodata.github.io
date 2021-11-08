@@ -31,15 +31,13 @@ Os pontos de monitoramento são apresentados no mapa abaixo:
 <button onclick="window.open('https://raw.githubusercontent.com/open-geodata/open-geodata.github.io/master/assets/sp_cetesb_infoaguas/ptos_monitoramento.kml')">Download</button>
 {% endraw %}
 
-
-
-ddd
-
-```
-
-```
-
-```
+ssss
 <a id="raw-url" href="https://raw.githubusercontent.com/open-geodata/sp_cetesb_infoaguas/master/filename">Download FILE</a>
-```
 
+seeee
+
+ssss
+
+<form method="get" action="https://raw.githubusercontent.com/open-geodata/open-geodata.github.io/master/assets/sp_cetesb_infoaguas/ptos_monitoramento.kml">
+   <button type="submit">Download!</button>
+</form>
