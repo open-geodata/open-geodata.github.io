@@ -36,8 +36,6 @@ ssss
 
 seeee
 
-ssss
-
-<form method="get" action="https://raw.githubusercontent.com/open-geodata/open-geodata.github.io/master/assets/sp_cetesb_infoaguas/ptos_monitoramento.kml">
+<form method="get" action="https://github.com/open-geodata/sp_cetesb_infoaguas/releases/download/1.0.0/ptos_monitoramento.kml">
    <button type="submit">Download</button>
 </form>
