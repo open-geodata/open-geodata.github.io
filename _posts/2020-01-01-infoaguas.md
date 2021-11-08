@@ -27,4 +27,4 @@ Os pontos de monitoramento são apresentados no mapa abaixo:
 
 É possível também acessar os pontos por meio do arquivo em formato kml.
 
-<a href="https://github.com/open-geodata/sp_cetesb_infoaguas/releases/download/1.0.0/ptos_monitoramento.kml" class="btn btn--primary">Link Text</a>
+<a href="https://github.com/open-geodata/sp_cetesb_infoaguas/releases/download/1.0.0/ptos_monitoramento.kml" class="btn btn--primary">Download</a>
