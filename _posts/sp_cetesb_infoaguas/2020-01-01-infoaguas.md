@@ -23,7 +23,7 @@ O Sistema de Informação [InfoÁGUAS](https://sistemainfoaguas.cetesb.sp.gov.br
 
 Os pontos de monitoramento são apresentados no mapa abaixo:
 
-<iframe src="https://open-geodata.github.io/assets/sp_cetesb_infoaguas/map_infoaguas_cluster.html" width="100%" height="480"  frameborder="0" allowfullscreen></iframe>
+<iframe src="https://open-geodata.github.io/assets/sp_cetesb_infoaguas/map_cluster.html" width="100%" height="480"  frameborder="0" allowfullscreen></iframe>
 
 <br>
 
