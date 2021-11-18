@@ -26,10 +26,8 @@ jobs:
 
           destination-github-username: 'open-geodata'
           destination-repository-name: 'open-geodata.github.io'
-          target-branch: main
-          #target-directory: ss Se não existe, é criado!
+          target-branch: master
           target-directory: /_posts/sp_cetesb_infoaguas
-
           commit-message: See ORIGIN_COMMIT from $GITHUB_REF
 
       - name: Test get variable exported by push-to-another-repository
