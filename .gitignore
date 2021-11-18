@@ -1,9 +1,9 @@
+# Paths
 data/
-datas/
-
-
 adds/
+logs/
 
+# IDEs
 .vscode/
 .idea/
 
