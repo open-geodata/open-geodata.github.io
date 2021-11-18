@@ -25,7 +25,7 @@ jobs:
           user-name: michelmetran
           user-email: michelmetran@gmail.com
 
-          destination-github-username: 'open-geodata'
+          destination-github-username: 'michelmetran'
           destination-repository-name: 'open-geodata.github.io'
           target-branch: master
           target-directory: /_posts/sp_cetesb_infoaguas
