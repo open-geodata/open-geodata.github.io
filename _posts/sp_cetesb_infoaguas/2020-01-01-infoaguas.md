@@ -13,6 +13,9 @@ tags:
   - água bruta
 classes: wide
 author: Michel Metran
+comments: true
+share: true
+related: true
 ---
 
 O Sistema de Informação [InfoÁguas](https://sistemainfoaguas.cetesb.sp.gov.br/) é uma iniciativa da CETESB, que visa disponibilizar ao público interessado informações sobre a qualidade das águas do Estado de São Paulo. Por meio do sistema, é possível ter acesso aos resultados dos parâmetros analisados sistematicamente pela CETESB em seu Programa de Monitoramento de Águas Superficiais, nos mais de 600 pontos monitorados desde a década de 70.
@@ -25,6 +28,8 @@ Os pontos de monitoramento são apresentados no mapa abaixo:
 
 <br>
 
-É possível também acessar os pontos por meio do arquivo em formato kml.
+É possível também acessar os pontos por meio do arquivo em outros formatos:
 
-<a href="https://github.com/open-geodata/sp_cetesb_infoaguas/releases/download/1.0.0/ptos_monitoramento.kml" class="btn btn--primary">Download</a>
+<a href="https://open-geodata.github.io/assets/sp_cetesb_infoaguas/ptos_monitoramento.kml" class="btn btn--primary">Download * kml*</a>
+
+<a href="https://open-geodata.github.io/assets/sp_cetesb_infoaguas/ptos_monitoramento.geojson" class="btn btn--primary">Download *geojson*</a>
