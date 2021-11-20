@@ -21,13 +21,11 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+    - label: "Mais informações"
+      url: "https://sistemainfoaguas.cetesb.sp.gov.br/"
 ---
 
-O Sistema de Informação [InfoÁguas](https://sistemainfoaguas.cetesb.sp.gov.br/) é uma iniciativa da CETESB, que visa disponibilizar ao público interessado informações sobre a qualidade das águas do Estado de São Paulo. Por meio do sistema, é possível ter acesso aos resultados dos parâmetros analisados sistematicamente pela CETESB em seu Programa de Monitoramento de Águas Superficiais, nos mais de 600 pontos monitorados desde a década de 70.
-
-<!--more-->
+O Sistema de Informação [InfoÁguas](https://sistemainfoaguas.cetesb.sp.gov.br/) é uma iniciativa da CETESB<!--more-->, que visa disponibilizar ao público interessado informações sobre a qualidade das águas do Estado de São Paulo. Por meio do sistema, é possível ter acesso aos resultados dos parâmetros analisados sistematicamente pela CETESB em seu Programa de Monitoramento de Águas Superficiais, nos mais de 600 pontos monitorados desde a década de 70.
 
 Os pontos de monitoramento são apresentados no mapa abaixo, bem como os dados de monitoramento, os quais são acessados ao clicar no ponto de interesse.
 
