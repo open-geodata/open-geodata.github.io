@@ -17,9 +17,9 @@ comments: false
 share: false
 related: false
 header:
-  overlay_image: /assets/sp_cetesb_infoaguas/imgs/salto-piracicaba.jpg
+  overlay_image: /assets/sp_cetesb_infoaguas/imgs/river-1729544_1920.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Helder Prado**](https://stock.adobe.com/br/contributor/208149441/helder-prado)"
+  caption: "Photo credit: [**Fabricio Macedo**](https://pixabay.com/pt/users/fabriciomacedophotos-328534/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1729544)"
   actions:
     - label: "Mais informações"
       url: "https://sistemainfoaguas.cetesb.sp.gov.br/"
