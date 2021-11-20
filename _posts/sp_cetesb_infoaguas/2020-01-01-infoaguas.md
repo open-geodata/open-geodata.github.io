@@ -19,7 +19,7 @@ related: false
 header:
   overlay_image: /assets/sp_cetesb_infoaguas/imgs/unsplash-image-1.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Helder Prado**](https://stock.adobe.com/br/contributor/208149441/helder-prado)"
   actions:
     - label: "Mais informações"
       url: "https://sistemainfoaguas.cetesb.sp.gov.br/"
