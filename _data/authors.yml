@@ -10,41 +10,30 @@ Michel Metran:
     - label: "Site"
       icon: "fas fa-fw fa-link"
       url: "https://michelmetran.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/michelmetran"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/michelmetran/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/michelmetran"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/michelmetran"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/michelmetran"
     - label: "StackOverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/6003328/michel-metran"
-
-
-Leonardo Bruno Federico:
-  name: "Leonardo Bruno Federico"
-  avatar: "/assets/images/avatar_lb.jpeg"
-  bio: "Meu escritório é na praia!"
-  location: "Santos, SP"
-  links:
-    - label: "Site"
-      icon: "fas fa-fw fa-link"
-      url: "https://lbfederico.github.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lbfederico"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/michelmetran"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/michelmetran"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com/michelmetran"
 
 
 Open Geodata:
   name: "Open Geodata"
   avatar: "/assets/images/avatar_lb.jpeg"
-  #bio: "Following the White Rabbit"
+  bio: "Following the White Rabbit"
   location: "Piracicaba, SP"
   links:
     - label: "Site"
@@ -53,17 +42,3 @@ Open Geodata:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/open-geodata"
-
-
-Open Consensus:
-  name: Open Consensus"
-  avatar: "/assets/images/logo.png"
-  bio: "Análise de similaridade entre moléculas, por meio da técnica 'pope consensus'"
-  location: "Piracicaba, SP"
-  links:
-    - label: "Site"
-      icon: "fas fa-fw fa-link"
-      url: "https://open-consensus.github.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/open-consensus"
