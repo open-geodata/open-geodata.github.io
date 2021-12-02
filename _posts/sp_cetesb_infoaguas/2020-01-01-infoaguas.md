@@ -14,6 +14,7 @@ tags:
 classes: wide
 author: Michel Metran
 comments: false
+excerpt: Sistema para acesso aos dados de qualidade de água superficial (dos rios)
 share: false
 related: false
 header:
