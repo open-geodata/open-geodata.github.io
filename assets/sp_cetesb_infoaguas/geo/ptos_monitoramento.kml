@@ -103,7 +103,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.85305555555556 -22.23138888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.85305555555556 -22.231388888888887)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -214,7 +214,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.85305555555556 -22.23111111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.85305555555556 -22.231111111111108)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -325,7 +325,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.44083333333333 -22.44722222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.44083333333333 -22.447222222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -436,7 +436,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.44916666666666 -22.44666666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.44916666666666 -22.446666666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -547,7 +547,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.36833333333333 -23.81944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.36833333333333 -23.819444444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -658,7 +658,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.65833333333333 -23.39777777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.65833333333333 -23.397777777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -1102,7 +1102,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-51.01444444444444 -21.43194444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-51.01444444444444 -21.431944444444447)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -1657,7 +1657,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.46444444444445 -23.93472222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.464444444444446 -23.934722222222224)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -1990,7 +1990,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.22305555555555 -22.27944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.223055555555554 -22.279444444444444)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -2101,7 +2101,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.34916666666667 -22.35111111111112)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.34916666666667 -22.351111111111116)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -2212,7 +2212,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.06 -23.46138888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.06 -23.461388888888887)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -2323,7 +2323,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-50.0225 -22.31916666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-50.0225 -22.319166666666668)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -2434,7 +2434,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.46361111111111 -23.70333333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.46361111111111 -23.703333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -2545,7 +2545,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.48083333333334 -23.69888888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.48083333333334 -23.698888888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -2767,7 +2767,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.785 -22.98833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.785 -22.988333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -2878,7 +2878,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.84777777777778 -22.96916666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.84777777777778 -22.969166666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -3100,7 +3100,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.97388888888889 -22.905)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.973888888888894 -22.905)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -3211,7 +3211,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.09888888888889 -22.74944444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.098888888888894 -22.74944444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -3433,7 +3433,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.11083333333333 -22.75694444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.11083333333333 -22.756944444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -3544,7 +3544,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.11583333333333 -22.75444444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.115833333333335 -22.754444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -3766,7 +3766,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.1225 -22.74666666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.1225 -22.746666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -4099,7 +4099,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.17333333333333 -22.76138888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.17333333333333 -22.761388888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -4654,7 +4654,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.37444444444444 -20.52055555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.37444444444444 -20.520555555555557)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -5098,7 +5098,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-50.42861111111111 -21.22194444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-50.42861111111111 -21.221944444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -5320,7 +5320,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.67055555555555 -23.75472222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.67055555555555 -23.754722222222224)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -5431,7 +5431,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.67 -23.75833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.67 -23.758333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -5542,7 +5542,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.67111111111111 -23.75527777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.67111111111111 -23.755277777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -5764,7 +5764,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.56638888888889 -21.65916666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.56638888888889 -21.659166666666664)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -6097,7 +6097,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.23472222222222 -21.88722222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.234722222222224 -21.88722222222222)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -6319,7 +6319,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.45833333333334 -20.91388888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.458333333333336 -20.913888888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -6430,7 +6430,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.44472222222222 -20.82972222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.44472222222222 -20.829722222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -6763,7 +6763,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.6875 -21.19166666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.6875 -21.191666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -6874,7 +6874,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.66416666666667 -23.71777777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.66416666666667 -23.717777777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -6985,7 +6985,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.64777777777778 -23.74916666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.647777777777776 -23.749166666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -7096,7 +7096,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.59833333333334 -23.79083333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.598333333333336 -23.79083333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -7207,7 +7207,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.52305555555555 -23.81777777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.52305555555555 -23.817777777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -7429,7 +7429,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.47055555555556 -23.79111111111112)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.47055555555556 -23.791111111111118)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -7651,7 +7651,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.67694444444444 -22.19083333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.676944444444445 -22.19083333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -7762,7 +7762,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.52888888888889 -21.23166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.528888888888886 -21.231666666666666)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -7984,7 +7984,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.905 -23.48944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.905 -23.489444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -8206,7 +8206,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.71694444444445 -23.64944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.71694444444445 -23.649444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -8317,7 +8317,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-50.92444444444444 -20.29666666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-50.92444444444444 -20.296666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -8428,7 +8428,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.35861111111111 -23.65305555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.35861111111111 -23.653055555555557)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -8650,7 +8650,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.38472222222222 -23.41388888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.38472222222222 -23.413888888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -9094,7 +9094,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-51.25777777777778 -20.43277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-51.257777777777775 -20.43277777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -9316,7 +9316,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.2225 -23.64861111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.2225 -23.648611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -9538,7 +9538,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.56138888888889 -23.47361111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.561388888888885 -23.473611111111108)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -9649,7 +9649,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.29 -23.03361111111112)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.29 -23.033611111111117)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -9760,7 +9760,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.31638888888889 -23.05083333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.31638888888889 -23.050833333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -9982,7 +9982,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.99583333333334 -21.42222222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.99583333333334 -21.422222222222224)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -10093,7 +10093,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.09388888888889 -21.47055555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.09388888888889 -21.470555555555556)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -10204,7 +10204,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.79694444444444 -20.27972222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.79694444444444 -20.279722222222222)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -10426,7 +10426,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.92277777777777 -22.21333333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.922777777777775 -22.21333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -10537,7 +10537,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.38722222222222 -23.94972222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.38722222222222 -23.949722222222224)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -10648,7 +10648,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.44194444444444 -23.09527777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.44194444444444 -23.095277777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -10981,7 +10981,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.80472222222222 -23.87166666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.80472222222222 -23.871666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -11092,7 +11092,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.62444444444444 -22.72444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.62444444444444 -22.724444444444444)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -11203,7 +11203,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.69499999999999 -22.70472222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.69499999999999 -22.704722222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -11425,7 +11425,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.88083333333334 -22.68916666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.880833333333335 -22.689166666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -11536,7 +11536,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.00305555555556 -22.66166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.00305555555556 -22.661666666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -11647,7 +11647,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.31916666666667 -23.57805555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.31916666666667 -23.578055555555554)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -11980,7 +11980,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.68138888888889 -23.62111111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.68138888888889 -23.621111111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -12091,7 +12091,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.69805555555556 -23.61972222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.69805555555556 -23.619722222222222)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -12202,7 +12202,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.58416666666667 -23.64833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.58416666666667 -23.648333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -12313,7 +12313,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.88138888888889 -23.59888888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.88138888888889 -23.598888888888887)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -12646,7 +12646,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.92222222222222 -23.10166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.92222222222222 -23.101666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -13090,7 +13090,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.2975 -22.95944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.2975 -22.959444444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -13201,7 +13201,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.48138888888889 -23.00527777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.481388888888894 -23.005277777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -13423,7 +13423,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.75472222222222 -22.98916666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.75472222222222 -22.989166666666662)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -13534,7 +13534,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.82472222222223 -23.33166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.82472222222223 -23.331666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -13645,7 +13645,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.66805555555555 -22.12916666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.668055555555554 -22.129166666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -13867,7 +13867,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.57 -22.34694444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.57 -22.346944444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -14311,7 +14311,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.67527777777777 -22.67916666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.67527777777777 -22.679166666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -14422,7 +14422,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.67694444444444 -22.68444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.676944444444445 -22.684444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -15088,7 +15088,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.015 -23.16416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.015 -23.164166666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -15199,7 +15199,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.89416666666666 -20.70305555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.89416666666666 -20.703055555555554)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -15754,7 +15754,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.70611111111111 -21.37888888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.70611111111111 -21.378888888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -15865,7 +15865,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.05722222222222 -23.41138888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.05722222222222 -23.411388888888887)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -16087,7 +16087,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.21416666666667 -22.49333333333334)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.21416666666667 -22.493333333333336)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -16309,7 +16309,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.55833333333333 -23.52444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.55833333333333 -23.524444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -16531,7 +16531,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.12833333333333 -23.01777777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.12833333333333 -23.017777777777777)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -16642,7 +16642,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.81 -23.82944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.81 -23.829444444444444)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -16864,7 +16864,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.78527777777778 -23.72055555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.78527777777778 -23.720555555555556)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -17308,7 +17308,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.18194444444444 -22.35416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.18194444444444 -22.354166666666668)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -17419,7 +17419,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.18166666666666 -22.29611111111112)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.181666666666665 -22.296111111111117)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -17641,7 +17641,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.70611111111111 -21.37888888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.70611111111111 -21.378888888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -18085,7 +18085,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.38694444444445 -23.74444444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.386944444444445 -23.744444444444447)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -18196,7 +18196,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.40305555555555 -23.74333333333334)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.403055555555554 -23.743333333333336)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -18640,7 +18640,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.52 -22.45277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.52 -22.452777777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -18751,7 +18751,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.19194444444444 -23.51444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.19194444444444 -23.514444444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -18862,7 +18862,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.62194444444444 -21.57777777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.621944444444445 -21.57777777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -18973,7 +18973,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.11972222222222 -23.39555555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.11972222222222 -23.395555555555557)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -19306,7 +19306,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.23444444444444 -20.02416666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.23444444444444 -20.024166666666662)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -19417,7 +19417,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.68972222222222 -20.16361111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.689722222222215 -20.16361111111111)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -19750,7 +19750,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.42138888888888 -23.46444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.421388888888885 -23.46444444444444)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -19861,7 +19861,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.45388888888889 -23.48527777777777)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.45388888888889 -23.485277777777775)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -19972,7 +19972,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.62194444444444 -23.71527777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.621944444444445 -23.71527777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -20083,7 +20083,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.20444444444445 -22.48138888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.20444444444445 -22.481388888888887)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -20416,7 +20416,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.72694444444445 -23.75416666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.72694444444445 -23.754166666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -20527,7 +20527,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.72777777777778 -23.67416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.72777777777778 -23.674166666666668)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -20860,7 +20860,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.37666666666667 -23.62083333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.376666666666665 -23.620833333333334)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -20971,7 +20971,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.75 -23.69194444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.75 -23.691944444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -21193,7 +21193,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-50.42277777777777 -21.82527777777777)&lt;/td&gt;
+      &lt;td&gt;POINT (-50.422777777777775 -21.825277777777774)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -21304,7 +21304,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.435 -20.81777777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.435 -20.817777777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -21415,7 +21415,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.35638888888889 -23.53277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.35638888888889 -23.532777777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -21748,7 +21748,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.59111111111111 -23.39861111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.59111111111111 -23.398611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -22303,7 +22303,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.60888888888889 -23.57805555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.60888888888889 -23.578055555555554)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -22414,7 +22414,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.95833333333334 -22.26805555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.958333333333336 -22.26805555555556)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -22525,7 +22525,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.05777777777777 -23.26194444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.05777777777777 -23.261944444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -22636,7 +22636,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.07333333333334 -23.24777777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.07333333333334 -23.247777777777777)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -22747,7 +22747,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.09555555555556 -23.24666666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.09555555555556 -23.246666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -23524,7 +23524,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.37194444444444 -23.55694444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.371944444444445 -23.556944444444444)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -23635,7 +23635,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.55305555555555 -23.72555555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.55305555555555 -23.725555555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -23746,7 +23746,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.57138888888889 -23.41833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.57138888888889 -23.418333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -23857,7 +23857,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-44.91277777777778 -22.56333333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-44.91277777777778 -22.563333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -24412,7 +24412,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.145 -23.21888888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.145 -23.218888888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -24967,7 +24967,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.47666666666667 -22.90666666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.47666666666667 -22.906666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -25078,7 +25078,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.51555555555556 -22.90638888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.51555555555556 -22.906388888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -25411,7 +25411,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.89777777777778 -22.74666666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.897777777777776 -22.746666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -25633,7 +25633,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.01416666666667 -22.70416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.01416666666667 -22.704166666666666)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -25744,7 +25744,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.15194444444445 -22.69888888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.151944444444446 -22.698888888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -25966,7 +25966,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.54027777777777 -22.3025)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.540277777777774 -22.3025)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -26188,7 +26188,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.06833333333334 -24.70805555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.068333333333335 -24.708055555555557)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -26410,7 +26410,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.65194444444445 -22.09222222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.651944444444446 -22.092222222222222)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -27076,7 +27076,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.34694444444445 -20.26416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.346944444444446 -20.264166666666668)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -27187,7 +27187,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.42416666666666 -22.92777777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.424166666666665 -22.92777777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -27298,7 +27298,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.25305555555556 -22.84166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.25305555555556 -22.841666666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -27409,7 +27409,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.12444444444444 -22.01611111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.12444444444444 -22.016111111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -28075,7 +28075,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.32694444444445 -23.48861111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.32694444444445 -23.488611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -28186,7 +28186,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.35277777777778 -23.42111111111112)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.35277777777778 -23.421111111111117)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -28519,7 +28519,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.19777777777777 -23.64916666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.19777777777777 -23.649166666666662)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -28630,7 +28630,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.71666666666667 -23.73027777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.71666666666667 -23.730277777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -28741,7 +28741,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.12916666666667 -22.29166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.12916666666667 -22.291666666666668)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -28852,7 +28852,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.44166666666666 -22.07888888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.44166666666666 -22.078888888888887)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -28963,7 +28963,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.48666666666666 -22.07333333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.486666666666665 -22.07333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -29518,7 +29518,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.77083333333334 -23.12166666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.770833333333336 -23.121666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -29851,7 +29851,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.90944444444445 -23.15833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.909444444444446 -23.15833333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -30073,7 +30073,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.77305555555555 -23.20361111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.77305555555555 -23.203611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -30184,7 +30184,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.80833333333333 -23.20805555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.80833333333333 -23.208055555555557)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -30406,7 +30406,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.02277777777778 -23.14694444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.022777777777776 -23.146944444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -30628,7 +30628,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.18027777777777 -23.10833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.180277777777775 -23.10833333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -31072,7 +31072,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.0925 -23.94138888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.0925 -23.941388888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -31183,7 +31183,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.63805555555555 -24.32222222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.63805555555555 -24.322222222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -31405,7 +31405,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.62888888888889 -23.22944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.62888888888889 -23.229444444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -31627,7 +31627,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-52.09694444444445 -21.76138888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-52.096944444444446 -21.761388888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -31738,7 +31738,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.44027777777777 -23.48055555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.44027777777777 -23.480555555555554)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -31849,7 +31849,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.87083333333334 -22.22805555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.87083333333334 -22.228055555555557)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -32293,7 +32293,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.5475 -22.91555555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.5475 -22.915555555555557)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -32515,7 +32515,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.54027777777777 -22.40916666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.540277777777774 -22.409166666666664)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -32626,7 +32626,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.58638888888889 -22.47944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.58638888888889 -22.479444444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -32737,7 +32737,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.44666666666667 -22.9125)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.446666666666665 -22.9125)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -32848,7 +32848,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.80388888888888 -22.59694444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.803888888888885 -22.596944444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -32959,7 +32959,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.62222222222222 -22.50444444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.62222222222222 -22.504444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -33292,7 +33292,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.94666666666667 -24.99388888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.946666666666665 -24.99388888888889)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -33403,7 +33403,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.555 -23.79333333333334)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.555 -23.793333333333337)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -33736,7 +33736,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.92055555555555 -20.73111111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.92055555555555 -20.731111111111108)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -34180,7 +34180,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.69194444444444 -22.26583333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.69194444444444 -22.265833333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -34291,7 +34291,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.96972222222222 -22.36361111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.969722222222224 -22.363611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -34402,7 +34402,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.98055555555555 -22.3625)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.980555555555554 -22.3625)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -34513,7 +34513,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.99944444444444 -22.36111111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.99944444444444 -22.361111111111114)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -34846,7 +34846,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.18527777777778 -22.28916666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.18527777777778 -22.289166666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -35068,7 +35068,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.26611111111111 -22.14805555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.26611111111111 -22.148055555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -35401,7 +35401,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.27138888888889 -22.05111111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.271388888888886 -22.051111111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -35512,7 +35512,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.31972222222223 -21.94166666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.31972222222223 -21.941666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -36067,7 +36067,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.63916666666667 -21.72416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.63916666666667 -21.724166666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -36178,7 +36178,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.76777777777777 -21.69055555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.76777777777777 -21.690555555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -36289,7 +36289,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.17138888888888 -21.20222222222223)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.171388888888885 -21.202222222222225)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -36622,7 +36622,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.43166666666666 -20.85027777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.431666666666665 -20.85027777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -36733,7 +36733,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.43833333333333 -20.84222222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.43833333333333 -20.842222222222222)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -36844,7 +36844,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.37805555555556 -23.85222222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.37805555555556 -23.852222222222224)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -37177,7 +37177,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.97194444444445 -22.39444444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.971944444444446 -22.39444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -37399,7 +37399,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.85583333333334 -23.60055555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.85583333333334 -23.600555555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -37510,7 +37510,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.85694444444445 -23.59694444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.85694444444445 -23.596944444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -37621,7 +37621,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.79583333333333 -24.18222222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.79583333333333 -24.182222222222222)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -37843,7 +37843,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.58000000000001 -23.6)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.580000000000005 -23.6)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -37954,7 +37954,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.70611111111111 -23.71777777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.70611111111111 -23.717777777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -38065,7 +38065,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.98944444444444 -22.88611111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.989444444444445 -22.88611111111111)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -38287,7 +38287,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.3575 -23.77666666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.3575 -23.776666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -38398,7 +38398,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.1 -22.76555555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.1 -22.765555555555554)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -38620,7 +38620,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.68777777777778 -23.68833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.687777777777775 -23.688333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -38842,7 +38842,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.79194444444444 -21.07805555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.79194444444444 -21.078055555555554)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -38953,7 +38953,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.30388888888888 -22.02722222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.303888888888885 -22.02722222222222)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -39175,7 +39175,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.04361111111111 -22.28361111111112)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.04361111111111 -22.283611111111117)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -39286,7 +39286,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.23972222222222 -22.87861111111112)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.23972222222222 -22.878611111111116)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -39397,7 +39397,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.61916666666666 -22.90416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.619166666666665 -22.904166666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -39508,7 +39508,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.86722222222223 -22.95388888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.86722222222223 -22.953888888888887)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -39619,7 +39619,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.41166666666666 -20.74444444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.41166666666666 -20.744444444444447)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -39730,7 +39730,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.12527777777778 -23.60083333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.125277777777775 -23.60083333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -40063,7 +40063,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.97222222222222 -23.31333333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.97222222222222 -23.313333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -40396,7 +40396,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.71083333333333 -23.07833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.71083333333333 -23.078333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -40507,7 +40507,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.55277777777778 -22.96111111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.55277777777778 -22.961111111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -40618,7 +40618,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.47027777777778 -22.91166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.47027777777778 -22.911666666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -40729,7 +40729,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.23444444444444 -22.84444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.23444444444444 -22.844444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -40840,7 +40840,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.11944444444445 -22.70333333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.11944444444445 -22.703333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -41062,7 +41062,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-44.77388888888889 -22.54222222222223)&lt;/td&gt;
+      &lt;td&gt;POINT (-44.77388888888889 -22.542222222222225)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -41173,7 +41173,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.7275 -23.64111111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.7275 -23.641111111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -41284,7 +41284,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.83583333333333 -21.57222222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.83583333333333 -21.572222222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -41506,7 +41506,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.48111111111111 -21.29222222222223)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.48111111111111 -21.292222222222225)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -42061,7 +42061,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.45416666666667 -20.45027777777777)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.45416666666667 -20.450277777777774)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -42172,7 +42172,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.73055555555555 -23.79305555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.730555555555554 -23.79305555555556)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -42283,7 +42283,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-50.31611111111111 -22.81666666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-50.31611111111111 -22.816666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -42394,7 +42394,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-51.62944444444445 -20.77777777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-51.629444444444445 -20.77777777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -42505,7 +42505,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-51.6275 -20.79722222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-51.6275 -20.797222222222224)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -42949,7 +42949,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-52.95722222222223 -22.47666666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-52.95722222222223 -22.476666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -43393,7 +43393,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-51.38833333333334 -22.66111111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-51.388333333333335 -22.66111111111111)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -43726,7 +43726,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.86972222222222 -24.65916666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.86972222222222 -24.659166666666664)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -43948,7 +43948,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.32277777777778 -22.71083333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.32277777777778 -22.710833333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -44503,7 +44503,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.67194444444444 -22.69555555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.67194444444444 -22.695555555555558)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -44614,7 +44614,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.7775 -22.69194444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.7775 -22.691944444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -44725,7 +44725,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.17416666666666 -22.62888888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.174166666666665 -22.628888888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -44836,7 +44836,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.57166666666667 -22.73416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.57166666666667 -22.734166666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -44947,7 +44947,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.6075 -20.47777777777777)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.6075 -20.477777777777774)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -45058,7 +45058,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.29111111111111 -23.59527777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.29111111111111 -23.595277777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -45169,7 +45169,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.27805555555555 -23.57861111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.278055555555554 -23.578611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -45280,7 +45280,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.88583333333333 -23.57694444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.88583333333333 -23.576944444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -45613,7 +45613,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-50.76861111111111 -22.00277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-50.76861111111111 -22.002777777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -45724,7 +45724,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-51.1975 -21.82527777777777)&lt;/td&gt;
+      &lt;td&gt;POINT (-51.1975 -21.825277777777774)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -45835,7 +45835,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-51.70277777777778 -21.60444444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-51.70277777777778 -21.604444444444447)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -46057,7 +46057,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.10611111111111 -23.48722222222223)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.10611111111111 -23.487222222222226)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -46390,7 +46390,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.00611111111111 -24.32888888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.00611111111111 -24.328888888888887)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -46501,7 +46501,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.25 -22.04833333333334)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.25 -22.048333333333336)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -46612,7 +46612,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.4575 -22.61361111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.4575 -22.613611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -46834,7 +46834,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.53555555555555 -22.56472222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.535555555555554 -22.564722222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -46945,7 +46945,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.84666666666667 -22.39833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.84666666666667 -22.398333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -47056,7 +47056,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.27833333333333 -23.29222222222223)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.27833333333333 -23.292222222222225)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -47389,7 +47389,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.62944444444445 -22.69916666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.629444444444445 -22.699166666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -47611,7 +47611,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.67916666666667 -23.70277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.67916666666667 -23.702777777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -47722,7 +47722,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.68472222222222 -23.70444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.68472222222222 -23.704444444444444)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -47944,7 +47944,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.70083333333334 -23.67083333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.700833333333335 -23.67083333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -48166,7 +48166,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.69277777777778 -23.59305555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.69277777777778 -23.593055555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -48277,7 +48277,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.74833333333333 -23.53111111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.748333333333335 -23.53111111111111)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -48388,7 +48388,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.98166666666667 -23.01055555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.98166666666667 -23.010555555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -48499,7 +48499,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.98861111111111 -22.98861111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.98861111111111 -22.988611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -49054,7 +49054,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.54916666666666 -20.58611111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.549166666666665 -20.58611111111111)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -49387,7 +49387,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-50.68388888888889 -22.62194444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-50.68388888888889 -22.621944444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -49498,7 +49498,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-52.0275 -22.52444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-52.0275 -22.524444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -50164,7 +50164,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.59888888888889 -23.61472222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.598888888888894 -23.614722222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -50275,7 +50275,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.73666666666666 -22.18638888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.736666666666665 -22.18638888888889)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -50497,7 +50497,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.01 -22.60194444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.01 -22.601944444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -50608,7 +50608,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.68083333333333 -22.82666666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.68083333333333 -22.826666666666668)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -50719,7 +50719,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.63611111111111 -20.29444444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.63611111111111 -20.294444444444448)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -50941,7 +50941,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.01388888888889 -23.20388888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.013888888888886 -23.203888888888887)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -51496,7 +51496,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.36527777777778 -23.80972222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.36527777777778 -23.809722222222224)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -51607,7 +51607,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.48083333333334 -22.14166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.48083333333334 -22.141666666666666)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -51718,7 +51718,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.15666666666667 -22.82055555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.156666666666666 -22.820555555555558)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -52162,7 +52162,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.38611111111111 -23.20972222222223)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.38611111111111 -23.209722222222226)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -52384,7 +52384,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.6975 -23.84666666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.6975 -23.846666666666664)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -52606,7 +52606,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.68777777777778 -23.75361111111112)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.687777777777775 -23.753611111111116)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -52828,7 +52828,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.41638888888889 -23.74166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.41638888888889 -23.741666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -52939,7 +52939,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.44611111111111 -23.73722222222223)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.44611111111111 -23.737222222222226)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -53383,7 +53383,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.82694444444445 -24.65416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.82694444444445 -24.654166666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -53494,7 +53494,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.92805555555555 -24.39277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.92805555555555 -24.392777777777777)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -53605,7 +53605,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.46166666666667 -21.31055555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.461666666666666 -21.31055555555556)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -53716,7 +53716,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.32333333333334 -21.31027777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.32333333333334 -21.310277777777777)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -53827,7 +53827,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.18 -21.23361111111112)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.18 -21.233611111111117)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -53938,7 +53938,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.83472222222223 -24.48916666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.83472222222223 -24.489166666666662)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -54271,7 +54271,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.39444444444445 -24.64916666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.394444444444446 -24.649166666666662)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -54382,7 +54382,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.43361111111111 -23.69972222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.43361111111111 -23.699722222222224)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -54715,7 +54715,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.81555555555556 -21.08694444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.81555555555556 -21.086944444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -54937,7 +54937,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.95666666666667 -20.40527777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.95666666666667 -20.405277777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -55048,7 +55048,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.78805555555555 -21.53277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.78805555555555 -21.532777777777778)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -55381,7 +55381,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.37611111111112 -20.80944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.37611111111112 -20.809444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -55603,7 +55603,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.82166666666667 -23.82416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.82166666666667 -23.824166666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -55714,7 +55714,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.34972222222223 -23.93083333333334)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.34972222222223 -23.930833333333336)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -55825,7 +55825,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.41694444444444 -23.75694444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.41694444444444 -23.756944444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -56602,7 +56602,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.79527777777778 -23.33472222222223)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.79527777777778 -23.334722222222226)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -56713,7 +56713,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.23388888888889 -20.98944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.23388888888889 -20.989444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -56935,7 +56935,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.52166666666667 -20.72944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.52166666666667 -20.729444444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -57268,7 +57268,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.8275 -20.52333333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.8275 -20.523333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -57379,7 +57379,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.22888888888889 -20.22666666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.22888888888889 -20.226666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -57490,7 +57490,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.29 -20.20361111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.29 -20.203611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -57823,7 +57823,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.73777777777778 -23.35277777777777)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.73777777777778 -23.352777777777774)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -57934,7 +57934,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.10722222222223 -20.93361111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.10722222222223 -20.933611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -58267,7 +58267,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.06361111111111 -21.05055555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.06361111111111 -21.050555555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -58378,7 +58378,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.48 -23.69972222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.48 -23.699722222222224)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -58489,7 +58489,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.47666666666667 -23.69583333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.47666666666667 -23.695833333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -58600,7 +58600,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.46861111111112 -23.68222222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.46861111111112 -23.682222222222222)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -58822,7 +58822,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.01277777777778 -23.53583333333334)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.01277777777778 -23.535833333333336)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -58933,7 +58933,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.94972222222222 -23.54194444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.94972222222222 -23.541944444444447)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -59044,7 +59044,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.90222222222222 -23.52666666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.90222222222222 -23.526666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -59266,7 +59266,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.76666666666667 -20.71722222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.766666666666666 -20.71722222222222)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -59488,7 +59488,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.83972222222222 -21.64194444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.83972222222222 -21.641944444444444)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -59599,7 +59599,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.99555555555556 -23.86972222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.99555555555556 -23.869722222222222)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -59821,7 +59821,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.20972222222223 -23.65805555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.20972222222223 -23.658055555555556)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -59932,7 +59932,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.29555555555555 -23.60722222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.29555555555555 -23.607222222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -60043,7 +60043,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.39777777777778 -23.61166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.397777777777776 -23.611666666666668)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -60265,7 +60265,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.44527777777778 -23.54)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.445277777777775 -23.540000000000003)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -60487,7 +60487,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.44388888888889 -23.47833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.443888888888885 -23.47833333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -60820,7 +60820,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.77888888888889 -23.31916666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.778888888888886 -23.319166666666668)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -60931,7 +60931,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.79638888888888 -23.1725)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.796388888888885 -23.1725)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -61042,7 +61042,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.81972222222223 -23.02277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.81972222222223 -23.022777777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -61153,7 +61153,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.68916666666667 -23.61444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.689166666666665 -23.614444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -61264,7 +61264,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-51.43472222222222 -22.20472222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-51.43472222222222 -22.204722222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -61486,7 +61486,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-51.57666666666667 -22.15055555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-51.57666666666667 -22.150555555555552)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -61819,7 +61819,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.4675 -23.66972222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.4675 -23.669722222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -61930,7 +61930,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.29083333333333 -23.57166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.29083333333333 -23.571666666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -62041,7 +62041,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.27055555555555 -23.53944444444445)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.27055555555555 -23.539444444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -62152,7 +62152,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.32138888888889 -23.63444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.32138888888889 -23.634444444444444)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -62707,7 +62707,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.63222222222223 -23.52666666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.63222222222223 -23.526666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -62818,7 +62818,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.71527777777778 -23.74694444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.71527777777778 -23.746944444444445)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -62929,7 +62929,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.91722222222222 -23.97416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.91722222222222 -23.974166666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -63040,7 +63040,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.45833333333334 -22.44166666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.458333333333336 -22.441666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -63262,7 +63262,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.44972222222222 -22.48722222222223)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.44972222222222 -22.487222222222226)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -63484,7 +63484,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.78277777777777 -23.32361111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.782777777777774 -23.32361111111111)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -63595,7 +63595,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.06888888888889 -23.44722222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.06888888888889 -23.447222222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -63817,7 +63817,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.90111111111111 -22.06111111111112)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.90111111111111 -22.061111111111117)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -63928,7 +63928,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.65722222222222 -21.20666666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.657222222222224 -21.206666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -64039,7 +64039,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.36638888888889 -21.95333333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.36638888888889 -21.953333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -64150,7 +64150,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.35805555555556 -21.94166666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.35805555555556 -21.941666666666663)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -64261,7 +64261,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.45972222222223 -23.37722222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.45972222222223 -23.377222222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -64483,7 +64483,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.34055555555556 -22.62055555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.34055555555556 -22.620555555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -64594,7 +64594,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.44666666666667 -22.54416666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.446666666666665 -22.54416666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -64705,7 +64705,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.51888888888889 -22.52305555555555)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.51888888888889 -22.523055555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -64816,7 +64816,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.25166666666667 -22.67805555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.251666666666665 -22.67805555555556)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -64927,7 +64927,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.91 -23.45444444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.91 -23.454444444444444)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -65149,7 +65149,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.13583333333333 -23.54861111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.13583333333333 -23.548611111111114)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -65482,7 +65482,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.30194444444444 -23.20361111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.301944444444445 -23.203611111111112)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -65593,7 +65593,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.67805555555555 -23.08666666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.67805555555555 -23.086666666666662)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -66037,7 +66037,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.99416666666666 -21.75861111111111)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.994166666666665 -21.75861111111111)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -66259,7 +66259,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-51.44472222222222 -20.66944444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-51.44472222222222 -20.669444444444444)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -66370,7 +66370,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.33694444444445 -23.50305555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.33694444444445 -23.503055555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -66481,7 +66481,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.34722222222222 -23.47194444444444)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.34722222222222 -23.471944444444443)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -66592,7 +66592,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.49972222222223 -23.47666666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.49972222222223 -23.476666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -66703,7 +66703,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.55805555555556 -23.52277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.55805555555556 -23.522777777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -66814,7 +66814,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.63111111111111 -23.52166666666666)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.63111111111111 -23.521666666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -67036,7 +67036,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.17388888888889 -22.83527777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.17388888888889 -22.835277777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -67258,7 +67258,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.3975 -22.19138888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.3975 -22.191388888888888)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -67369,7 +67369,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.99472222222222 -23.39083333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.99472222222222 -23.390833333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -67480,7 +67480,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.28527777777778 -21.64027777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.28527777777778 -21.640277777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -67813,7 +67813,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.7825 -21.29722222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.7825 -21.297222222222224)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -68035,7 +68035,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-50.4675 -21.04833333333334)&lt;/td&gt;
+      &lt;td&gt;POINT (-50.4675 -21.048333333333336)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -68257,7 +68257,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.52833333333333 -22.72555555555556)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.52833333333333 -22.725555555555555)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -68368,7 +68368,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.8025 -21.14277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.8025 -21.142777777777777)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -68590,7 +68590,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.41444444444444 -22.73583333333334)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.41444444444444 -22.735833333333336)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -68701,7 +68701,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-47.44499999999999 -22.73722222222223)&lt;/td&gt;
+      &lt;td&gt;POINT (-47.44499999999999 -22.737222222222226)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -68812,7 +68812,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.68611111111111 -23.59916666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.68611111111111 -23.599166666666665)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -69034,7 +69034,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.89444444444445 -23.75222222222222)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.894444444444446 -23.752222222222223)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -69367,7 +69367,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-48.7075 -20.99166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-48.7075 -20.991666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -69478,7 +69478,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-49.10361111111112 -20.74166666666667)&lt;/td&gt;
+      &lt;td&gt;POINT (-49.10361111111112 -20.741666666666667)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -70033,7 +70033,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.50722222222223 -23.03027777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.50722222222223 -23.030277777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -70588,7 +70588,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.75638888888889 -23.48638888888889)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.756388888888885 -23.48638888888889)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -70921,7 +70921,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-45.91583333333333 -23.18833333333333)&lt;/td&gt;
+      &lt;td&gt;POINT (-45.91583333333333 -23.188333333333333)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -71143,7 +71143,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-50.31055555555555 -21.31027777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-50.31055555555555 -21.310277777777777)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
@@ -71254,7 +71254,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;geometry&lt;/th&gt;
-      &lt;td&gt;POINT (-46.78888888888888 -23.75277777777778)&lt;/td&gt;
+      &lt;td&gt;POINT (-46.78888888888888 -23.752777777777776)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th&gt;url&lt;/th&gt;
