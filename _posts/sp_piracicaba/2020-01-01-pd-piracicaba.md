@@ -13,7 +13,8 @@ tags:
   - macrozoneamento
 classes: wide
 author: Michel Metran
-comments: false
+comments: false 
+excerpt: Webmap do Plano Diretor, com macrozoneamento, bairros etc.
 share: false
 related: false
 header:
@@ -25,12 +26,10 @@ header:
       url: "https://github.com/open-geodata/sp_piracicaba"
 ---
 
-**Lei Complementar nº405/2019**
+Mapa do Plano Diretor de Piracicaba, definido pela **Lei Complementar nº405/2019**.
 
 Mais informações, consultar o [site da prefeitura](http://planodiretor.piracicaba.sp.gov.br/plano-diretor-de-desenvolvimento-de-piracicaba/)
 
 Mapas extraídos do arquivo *Mapa_1_2_3_4_macrozonas_zonas_PLC.dwg*  em janeiro de 2021.
-
-<iframe width="100%" height="520" frameborder="0" src="https://rawcdn.githack.com/michelmetran/sp_piracicaba/main/maps/map_pd_piracicaba.html?token=ACPE3CTWTZNLZ7QYKDSFWFDA2IBS6" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <iframe src="https://open-geodata.github.io/assets/sp_piracicaba/data/map_pd_piracicaba.html" width="100%" height="480"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
