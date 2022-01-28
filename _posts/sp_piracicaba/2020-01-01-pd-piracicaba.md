@@ -18,9 +18,9 @@ excerpt: Webmap do Plano Diretor, com macrozoneamento, bairros etc.
 share: false
 related: false
 header:
-  overlay_image: /assets/sp_piracicaba/imgs/sasun-bughdaryan.jpg
+  overlay_image: /assets/sp_piracicaba/imgs/Panorâmica_Rio_Piracicaba.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo by [**Sasun Bughdaryan**](https://unsplash.com/@sasun1990?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com)"
+  caption: "Photo by **Bruno Karklis** on [Wikipedia](https://pt.m.wikipedia.org/wiki/Ficheiro:Panor%C3%A2mica_Rio_Piracicaba.jpg)"
   actions:
     - label: "GitHub"
       url: "https://github.com/open-geodata/sp_piracicaba"
