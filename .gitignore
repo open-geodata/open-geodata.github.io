@@ -1,4 +1,8 @@
-# 
+# IDE
+.vscode/
+.idea/
+
+#
 .ipynb_checkpoints/
 _profile/
 _lixo/
