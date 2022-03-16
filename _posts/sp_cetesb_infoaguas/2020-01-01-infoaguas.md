@@ -26,7 +26,7 @@ header:
       url: "https://sistemainfoaguas.cetesb.sp.gov.br/"
 ---
 
-O Sistema de Informação [InfoÁguas](https://sistemainfoaguas.cetesb.sp.gov.br/) é uma iniciativa da CETESB<!--more-->, que visa disponibilizar ao público interessado informações sobre a qualidade das águas do Estado de São Paulo. Por meio do sistema, é possível ter acesso aos resultados dos parâmetros analisados sistematicamente pela CETESB em seu Programa de Monitoramento de Águas Superficiais, nos mais de 600 pontos monitorados desde a década de 70.
+O Sistema de Informação [Infoáguas](https://sistemainfoaguas.cetesb.sp.gov.br/) é uma iniciativa da CETESB<!--more-->, que visa disponibilizar ao público interessado informações sobre a qualidade das águas do Estado de São Paulo. Por meio do sistema, é possível ter acesso aos resultados dos parâmetros analisados sistematicamente pela CETESB em seu Programa de Monitoramento de Águas Superficiais, nos mais de 600 pontos monitorados desde a década de 70.
 
 Os pontos de monitoramento são apresentados no mapa abaixo, bem como os dados de monitoramento, os quais são acessados ao clicar no ponto de interesse.
 
@@ -37,5 +37,5 @@ Os pontos de monitoramento são apresentados no mapa abaixo, bem como os dados d
 É possível também acessar os pontos por meio do arquivo em outros formatos:
 
 <a href="https://open-geodata.github.io/assets/sp_cetesb_infoaguas/geo/ptos_monitoramento.kml" class="btn btn--primary">Download *kml*</a>
-
+<br>
 <a href="https://open-geodata.github.io/assets/sp_cetesb_infoaguas/geo/ptos_monitoramento.geojson" class="btn btn--primary">Download *geojson*</a>
